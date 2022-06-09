@@ -1,0 +1,14 @@
+name: LOTCTrial
+main: com.github.cat956.main.Main
+author: Cat956
+version: 0.0.1
+api-version: 1.18
+description: LOTC Trial Plugin.
+depend: []
+soft-depend: []
+load: POSTWORLD
+
+commands:
+   crop:
+      description: Toggle crop.
+      usage: Use /<command> for help.
